@@ -1,0 +1,111 @@
+{
+    "physical-qp-12":[
+        {
+        "id":1,
+        "subject":"physical",
+        "image":"physical",
+        "description":"physical Education - 2015 Main Exam set-1",
+        "download":"assets/images/exam-12/physical-12/physical-2015-set-1.pdf",
+        "view":"assets/images/exam-12/physical-12/physical-2015-set-1.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":2,
+        "subject":"physical",
+        "image":"physical",
+        "description":"physical Education 2016 Outside Exam set-4",
+        "download":"assets/images/exam-12/physical-12/physical-2016-outside-set-4.pdf",
+        "view":"assets/images/exam-12/physical-12/physical-2016-outside-set-4.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":3,
+        "subject":"physical",
+        "image":"physical",
+        "description":"physical Education 2016 Main Exam set-4",
+        "download":"assets/images/exam-12/physical-12/physical-2016-set-4.pdf",
+        "view":"assets/images/exam-12/physical-12/physical-2016-set-4.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":4,
+        "subject":"physical",
+        "image":"physical",
+        "description":"physical Education 2017 Outside Exam set-4",
+        "download":"assets/images/exam-12/physical-12/physical-2017-outside-set-4.pdf",
+        "view":"assets/images/exam-12/physical-12/physical-2017-outside-set-4.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      }, {
+        "id":5,
+        "subject":"physical",
+        "image":"physical",
+        "description":"physical Education 2017 Main Exam set-4",
+        "download":"assets/images/exam-12/physical-12/physical-2017-set-4.pdf",
+        "view":"assets/images/exam-12/physical-12/physical-2017-set-4.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":6,
+        "subject":"physical",
+        "image":"physical",
+        "description":"physical Education 2018 Main Exam set-1",
+        "download":"assets/images/exam-12/physical-12/physical-2018-set-1.pdf",
+        "view":"assets/images/exam-12/physical-12/physical-2018-set-1.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":7,
+        "subject":"physical",
+        "image":"physical",
+        "description":"physical Education 2018 Main Exam set-2",
+        "download":"assets/images/exam-12/physical-12/physical-2018-set-2.pdf",
+        "view":"assets/images/exam-12/physical-12/physical-2018-set-2.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":8,
+        "subject":"physical",
+        "image":"physical",
+        "description":"physical Education 2019 Main Exam set-1",
+        "download":"assets/images/exam-12/physical-12/physical-2019-set-1.pdf",
+        "view":"assets/images/exam-12/physical-12/physical-2019-set-1.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":9,
+        "subject":"physical",
+        "image":"physical",
+        "description":"physical Education 2020  Question Paper set-1",
+        "download":"assets/images/exam-12/physical-12/physical-2020-set-1.pdf",
+        "view":"assets/images/exam-12/physical-12/physical-2020-set-1.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      }, {
+        "id":10,
+        "subject":"physical",
+        "image":"physical",
+        "description":"physical Education 2022 Previous Year Question Paper set-4",
+        "download":"assets/images/exam-12/physical-12/physical-2022-set-4.pdf",
+        "view":"assets/images/exam-12/physical-12/physical-2022-set-4.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      }
+    ]
+}
